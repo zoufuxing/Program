@@ -1,0 +1,40 @@
+10
+
+dir
+52
+http://192.168.10.153/svn/C/libdns-20120805
+http://192.168.10.153/svn
+
+
+
+2012-11-26T07:05:20.803722Z
+43
+zoufuxing
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+4bae8422-ebb7-4f42-a501-a52a5f1c5355
+
+contrib
+dir
+
+doc
+dir
+
+src
+dir
+
+regress
+dir
+

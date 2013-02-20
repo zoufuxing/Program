@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<zabbix_monitor version="1.0" date="12.5.17" time="11.18"> 
+  <host name="mysql3306_0_231">
+  <description>mysql3306_0_231</description>   
+  <turn>on</turn>   
+  <ip>192.168.0.231</ip>   
+  <user>status</user>   
+  <pw>status</pw>   
+  <port>3306</port>   
+  </host>
+
+  <host name="mysql3306_75_210">
+  <description>mysql3306_75_210</description>
+  <turn>on</turn>
+  <ip>192.168.75.210</ip> 
+  <user>status</user>
+  <pw>status</pw>
+  <port>3306</port>   
+  </host>
+
+  <host name="mysql3309_75_210">
+  <description>mysql3309_75_210</description>
+  <turn>on</turn> 
+  <ip>192.168.75.210</ip>
+  <user>status</user> 
+  <pw>status</pw>   
+  <port>3309</port>
+  </host>
+  
+  </zabbix_monitor>

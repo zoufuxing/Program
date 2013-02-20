@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/C/libdns-20120805/contrib
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/43/C/libdns-20120805/contrib/fifo.h
+END
+socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/43/C/libdns-20120805/contrib/socket.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/43/C/libdns-20120805/contrib/Makefile
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/43/C/libdns-20120805/contrib/socket.h
+END

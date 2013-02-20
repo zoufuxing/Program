@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/43/C/libdns-20120805/src
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/C/libdns-20120805/src/mem.c
+END
+zone.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/C/libdns-20120805/src/zone.h
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/C/libdns-20120805/src/cache.c
+END
+spf.rl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/C/libdns-20120805/src/spf.rl
+END
+dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/C/libdns-20120805/src/dns.c
+END
+fcrd.spf
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/C/libdns-20120805/src/fcrd.spf
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/C/libdns-20120805/src/tree.h
+END
+zone.rl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/C/libdns-20120805/src/zone.rl
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/C/libdns-20120805/src/cache.h
+END
+dns.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/C/libdns-20120805/src/dns.h
+END
+spf.t
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/C/libdns-20120805/src/spf.t
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/C/libdns-20120805/src/Makefile
+END
+spf.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/C/libdns-20120805/src/spf.h
+END

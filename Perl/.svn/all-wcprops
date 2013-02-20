@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/52/Perl
+END
+test1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/1/Perl/test1.xml
+END
+getopt_module.pl
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1/Perl/getopt_module.pl
+END
+thread.pl
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/12/Perl/thread.pl
+END
+monitor_memcache.pl
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1/Perl/monitor_memcache.pl
+END
+monitor_mysql_v1.1.pl.bak
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/Perl/monitor_mysql_v1.1.pl.bak
+END
+monitor_mysql_v1.1.pl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/36/Perl/monitor_mysql_v1.1.pl
+END
+monitor_mysql_v1.pl
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/17/Perl/monitor_mysql_v1.pl
+END
+sig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/1/Perl/sig.pl
+END

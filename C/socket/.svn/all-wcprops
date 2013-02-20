@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/42/C/socket
+END
+listen.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/42/C/socket/listen.c
+END
+accept.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/42/C/socket/accept.c
+END
+a.out
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/42/C/socket/a.out
+END

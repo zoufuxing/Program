@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/52/Perl/DBI
+END
+fetch_array.pl
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/49/Perl/DBI/fetch_array.pl
+END
+fetch_hashref.pl
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/50/Perl/DBI/fetch_hashref.pl
+END
+bind_columns.pl
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/51/Perl/DBI/bind_columns.pl
+END
+dbi_do.pl
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/52/Perl/DBI/dbi_do.pl
+END
